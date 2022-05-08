@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrenteBW
-- 👀 I’m interested in Data Science, Big Data, Machine learning, Mobile application, iOS and so on.
+- 👀 I’m interested in Mobile application, iOS Data Science, Big Data, Machine learning and so on.
 - 🌱 I’m currently learning Software Engineering in Dankook Univ. 
 - 📫 My E-mail : abw2619@icloud.com , My Instagram : frenteBW
 
